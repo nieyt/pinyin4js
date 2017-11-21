@@ -8,7 +8,7 @@ pinyin4js
 ```
 import Translate from './pinyin.js';
 
-console.log(Translate.go('李乐'));
+console.log(Translate.go('李乐乐'));
 
 // ["lilele", "lileyue", "liyuele", "liyueyue"]
 ```
