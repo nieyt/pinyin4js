@@ -20915,3 +20915,5 @@ var unicodeToPinyinJson = [
     {unicode: '9FA4', pinyin: ['xie2']},
     {unicode: '9FA5', pinyin: ['yue4']}
 ];
+
+export default unicodeToPinyinJson;
