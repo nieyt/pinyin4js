@@ -6,7 +6,7 @@ pinyin4js
 用法：
 
 ```
-import Translate from './pinyin.js';
+import Translate from './pinyin4js';
 
 console.log(Translate.go('李乐乐'));
 
